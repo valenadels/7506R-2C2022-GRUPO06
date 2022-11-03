@@ -1,7 +1,9 @@
 # 7506R-2C2022-GRUPO06
 ## Trabajo práctico 1 Organización de datos 
 Frenkel, Emanuel, Zacarias, Javes, Adelsflugel
-
+El objetivo principal del trabajo será aplicar técnicas de análisis exploratorio, preprocesamiento
+de datos, agrupamiento, clasificación y regresión sobre el set de datos provisto por la empresa Properati correspondiente a
+anuncios de propiedades en venta de la República Argentina publicados durante el año 2021.
 ### Metodología de trabajo
 Programación colaborativa en notebooks jupyter. La mejor alternativa que encontramos para esto fue Deepnote, una ambiente en la nube para el análisis de datos grupal:
 [link a Deepnote](https://deepnote.com/home).
