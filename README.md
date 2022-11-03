@@ -13,3 +13,6 @@ Es por este motivo que recomendamos abrir el trabajo práctico en esta aplicaci�
 
 ### Organización de los documentos
 El trabajo se encuentra dividido en 4 notebooks, cada una de ellas correspondiente a una parte del tp (analisis exploratorio y preprocesamiento, agrupamiento, clasificación, regresión). En la última se encuentra una conclusión final del mismo.
+
+### Tips
+En caso de querer correr varias veces una notebook es recomendable comentar las celdas que realicen pairplots dado que tardan demasiado tiempo
