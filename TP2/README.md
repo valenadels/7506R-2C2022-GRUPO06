@@ -1,8 +1,10 @@
 # 7506R-2C2022-GRUPO06
 ## Trabajo práctico 1 Organización de datos 
 Frenkel, Emanuel, Zacarias, Javes, Adelsflugel
+
 ### Objetivo
 El objetivo principal del trabajo será aplicar técnicas de procesamiento natural de lenguaje, clasificación, regresión y redes nuronales sobre el set de datos provisto por la empresa Properati correspondiente a anuncios de propiedades en venta de la República Argentina publicados durante el año 2021.
+
 ### Metodología de trabajo
 Programación colaborativa en notebooks jupyter. La mejor alternativa que encontramos para esto fue Deepnote, una ambiente en la nube para el análisis de datos grupal:
 [link a Deepnote](https://deepnote.com/home).
@@ -11,3 +13,13 @@ Es por este motivo que recomendamos abrir el trabajo práctico en esta aplicaci�
 
 ### Organización de los documentos
 El trabajo se encuentra dividido en 3 notebooks, cada una de ellas correspondiente a una parte del tp (ampliación del dataset de descripciones con PLN, redes neuronales, ensambles). En la última se encuentra una conclusión final del mismo.
+
+### Aclaración
+Hay algunos archivos que no pudieron ser subidos a la plataforma por sobrepasar el límite de tamaño permitido por lo que a continuación adjuntamos link a un drive con todos aquellos archivos que no pueden estar en el repositorio. Entre esos archivos se encuentran:
+  * Las descripciones del tp1
+  * El modelo exportado de voting
+  * Las oraciones encontradas con las descripciones de importancia
+  * Las descripciones de propiedades
+  * El csv original de descripciones
+  
+  Link:
