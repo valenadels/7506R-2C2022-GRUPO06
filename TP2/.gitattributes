@@ -1,3 +1,2 @@
-D.sav filter=lfs diff=lfs merge=lfs -text
 .sav filter=lfs diff=lfs merge=lfs -text
 .txt filter=lfs diff=lfs merge=lfs -text
