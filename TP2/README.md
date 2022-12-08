@@ -9,7 +9,7 @@ El objetivo principal del trabajo será aplicar técnicas de procesamiento natur
 Programación colaborativa en notebooks jupyter. La mejor alternativa que encontramos para esto fue Deepnote, una ambiente en la nube para el análisis de datos grupal:
 [link a Deepnote](https://deepnote.com/home).
 
-Es por este motivo que recomendamos abrir el trabajo práctico en esta aplicación para evitar posibles casos de incompatibilidad con GoogleColab, por ejemplo. A continuación adjuntamos la url al tp desde Deepnote: [tp en Deepnote](https://deepnote.com/workspace/orga-de-datos-a1ca-7f916866-654b-4dff-a420-edb2828ad6cc/project/tp2-orga-8953c3ab-dbb1-46a7-ac7e-fe8a0929b2fc/notebook/7506R_TP2_GRUPO06_ENTREGA_N1-96edaa2e177143f39e57da54459e8d9f)
+Es por este motivo que recomendamos abrir el trabajo práctico en esta aplicación para evitar posibles casos de incompatibilidad con GoogleColab, por ejemplo. A continuación adjuntamos la url al tp desde Deepnote: [tp en Deepnote](https://deepnote.com/workspace/orga-de-datos-a1ca-7f916866-654b-4dff-a420-edb2828ad6cc/project/tp2-orga-8953c3ab-dbb1-46a7-ac7e-fe8a0929b2fc/%2F7506R_TP2_GRUPO06_ENTREGA_N1.ipynb)
 
 ### Organización de los documentos
 El trabajo se encuentra dividido en 3 notebooks, cada una de ellas correspondiente a una parte del tp (ampliación del dataset de descripciones con PLN, redes neuronales, ensambles). En la última se encuentra una conclusión final del mismo.
