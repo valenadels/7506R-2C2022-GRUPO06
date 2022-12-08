@@ -19,4 +19,5 @@ Hay algunos archivos que no pudieron ser subidos a la plataforma por sobrepasar 
   * Las descripciones de propiedades (.txt)
   * El csv original de descripciones
   * Los datasets generados
+  * Los modelos
   Link: [Drive de archivos](https://drive.google.com/drive/folders/1DY6IAve0CYeFnGGabXPfoD5mG4_by1u-?usp=sharing)
