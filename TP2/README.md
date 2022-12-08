@@ -18,5 +18,5 @@ El trabajo se encuentra dividido en 3 notebooks, cada una de ellas correspondien
 Hay algunos archivos que no pudieron ser subidos a la plataforma por sobrepasar el límite de tamaño permitido por lo que a continuación adjuntamos link a un drive con todos aquellos archivos que no pueden estar en el repositorio. Entre esos archivos se encuentran:
   * Las descripciones de propiedades (.txt)
   * El csv original de descripciones
-  
+  * Los datasets generados
   Link: [Drive de archivos](https://drive.google.com/drive/folders/1DY6IAve0CYeFnGGabXPfoD5mG4_by1u-?usp=sharing)
