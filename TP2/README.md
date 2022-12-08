@@ -1,5 +1,5 @@
 # 7506R-2C2022-GRUPO06
-## Trabajo práctico 1 Organización de datos 
+## Trabajo práctico 2 Organización de datos 
 Frenkel, Emanuel, Zacarias, Javes, Adelsflugel
 
 ### Objetivo
