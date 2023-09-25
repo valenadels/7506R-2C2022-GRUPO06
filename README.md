@@ -1,3 +1,7 @@
+# Resumen de la materia
+
+https://valenkpa.notion.site/Organizaci-n-de-datos-9d9fa572d30f462db0a39e97b339e2c3?pvs=4
+
 # 7506R-2C2022-GRUPO06
 ## Trabajo prácticos 1 y 2 - Organización de datos. Cátedra Rodriguez
 
